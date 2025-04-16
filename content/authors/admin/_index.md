@@ -1,13 +1,16 @@
+Certainly! Below is the template filled in with information from the attached resume:
+
 ---
+
 # Display name
-title: 吳健雄
+title: Xue Mei Wang
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Xue Mei Wang
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Xue Mei
+last_name: Wang
 
 # Status emoji
 status:
@@ -20,167 +23,170 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Cloud Solutions Manager
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: OpenStack Advocate
+    url: https://www.openstack.org/
 
 # Social network links
-# Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:shallow1142@foxmail.com'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
-  - icon: brands/github
-    url: https://github.com/gcushen
   - icon: brands/linkedin
     url: https://www.linkedin.com/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
-
+  
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Cloud Computing
+  - Digital Transformation
+  - Environmental Monitoring Solutions
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: BSc Logistics Management
+    institution: Xihua University, School of Transportation and Automotive Engineering
+    date_start: 2006-03-01
+    date_end: 2010-06-30
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
-
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
+      GPA: Not provided
       
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Transportation Science
+      - Management Information Systems
+      - Logistics Management
+      - Procurement Management
+      - Supply Chain Management
+  - area: BSc Automotive Service Engineering
+    institution: Xihua University, School of Transportation and Automotive Engineering
+    date_start: 2005-09-01
+    date_end: 2006-01-31
+
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: Group Client Manager
+    company_name: 九州云（山东九州银科科技信息有限公司）
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
+    date_start: 2021-12-01
+    date_end: 2022-06-30
     summary: |2-
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
+      - Sales of cloud services in Southwest China.
+      - Market channel expansion.
+      - Industry sales for cloud products.
+      - Collection of regional potential customers.
+      - Competitor analysis.
+      - Project coordination and business negotiation.
+  - position: Sales Manager / Pre-sales Engineer
+    company_name: 中国科学院高能物理研究所 （四川中科高能科技有限责任公司）
     company_url: ''
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2019-01-01
+    date_end: 2021-11-30
     summary: |
       Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Technology transfer and solution output.
+      - Sales channels for civilian non-power nuclear technologies.
+      - Providing environmental monitoring solutions.
+      - Promotion of industrial irradiation electron accelerators.
+      - Project development and delivery.
+      - Customer relationship management.
+  - position: Project Management Consultant
+    company_name: SAP Chengdu Cloud Service Center
+    company_url: ''
+    company_logo: ''
+    date_start: 2018-10-01
+    date_end: 2019-01-31
+    summary: |
+      Responsibilities include:
+      - Major project management.
+      - Resource coordination.
+      - Communication planning.
+      - Stakeholder meetings and demand workshops.
+  - position: Sales Manager
+    company_name: 四川弘和通讯有限公司
+    company_url: ''
+    company_logo: ''
+    date_start: 2017-01-01
+    date_end: 2018-08-31
+    summary: |
+      Responsibilities include:
+      - Sales of AI products.
+      - Sales strategy implementation.
+      - Project information collection.
+      - Sales opportunity assessment.
+      - Sales plan preparation.
+  - position: Project Assistant
+    company_name: 思科系统（中国）网络技术有限公司
+    company_url: ''
+    company_logo: ''
+    date_start: 2012-07-01
+    date_end: 2016-10-31
+    summary: |
+      Responsibilities include:
+      - Project delivery support.
+      - Coordination of resources and partners.
+      - Daily operations management.
+      - Budget analysis and cost management.
+  - position: Project Assistant
+    company_name: 成都映希通信技术咨询公司
+    company_url: ''
+    company_logo: ''
+    date_start: 2010-08-01
+    date_end: 2012-05-31
+    summary: |
+      Responsibilities include:
+      - Supplier management.
+      - Recruitment and training.
+      - Employee relations management.
 
-# Skills
-# Add your own SVG icons to `assets/media/icons/`
 skills:
   - name: Technical Skills
     items:
-      - name: Python
+      - name: Cloud Computing Services
         description: ''
         percent: 80
-        icon: code-bracket
-      - name: Data Science
+        icon: cloud
+      - name: Business Negotiation
         description: ''
         percent: 100
-        icon: chart-bar
-      - name: SQL
+        icon: handshake
+      - name: Project Management
         description: ''
-        percent: 40
-        icon: circle-stack
+        percent: 90
+        icon: clipboard-document-check
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Traveling
         description: ''
-        percent: 60
-        icon: person-simple-walk
-      - name: Cats
+        percent: 70
+        icon: map-pin
+      - name: Reading
         description: ''
-        percent: 100
-        icon: cat
-      - name: Photography
-        description: ''
-        percent: 80
-        icon: camera
+        percent: 90
+        icon: book-open
 
 languages:
-  - name: English
-    percent: 100
   - name: Chinese
+    percent: 100
+  - name: English
     percent: 75
-  - name: Portuguese
-    percent: 25
 
-# Awards.
-#   Add/remove as many awards below as you like.
-#   Only `title`, `awarder`, and `date` are required.
-#   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: Coursera
-    icon: coursera
+  - title: Zhu Qing Shi Scholarship
+    url: ''
+    date: '2005-03-01'
+    awarder: Xihua University
+    icon: trophy
     summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
-    icon: edx
-    summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
-    icon: datacamp
-    summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
----
+      Awarded for academic excellence.
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Xue Mei Wang is a professional with extensive experience in cloud computing, digital transformation, and project management. Her expertise spans across various industries including environmental monitoring, telecommunications, and artificial intelligence. She has successfully managed numerous projects and has been instrumental in driving technology transfer and sales strategies in her roles at different organizations.
+ 
+--- 
+
+Please note that some sections like technical skills and hobbies are inferred based on her work experience, as specific details were not provided in the resume.
